@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @camiloakle, data analyst for @trudata-analytics
-- 👀 I’m interested in data science,plc,arduino,iot
+- 👋 Hi, I’m @camiloakle, data engenieer.
+- 👀 I’m interested in data engineering,plc,arduino,iot
 - 🌱 I’m currently learning arduino, python and its agricultural uses
 - 💞️ I’m looking to collaborate on data analitics and data science projects
 - 📫 How to reach me camiloakle@gmail.com
