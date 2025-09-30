@@ -39,7 +39,7 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 ---
 
 ### 📈 GitHub Stats
-![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloakle&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=radical)
+![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 > *"Great data infrastructure doesn't just move data—it enables insight, action, and innovation."*
