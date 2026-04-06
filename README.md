@@ -99,7 +99,7 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 
 ---
 ### 📈 GitHub Stats
-![Camilo's GitHub Stats](https://github-readme-stats-git-master-camiloakles-projects.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=2)
+![Camilo's GitHub Stats](https://github-readme-stats-git-master-camiloakles-projects.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=false&include_all_commits=true&v=2)
 
 ![Top Langs](https://github-readme-stats-git-master-camiloakles-projects.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=dark&cache_seconds=1800&v=2)
 
