@@ -98,7 +98,6 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/camilo-akle)
 
 ---
-
 ### 📈 GitHub Stats
 ![Camilo's GitHub Stats](https://github-readme-stats-git-master-camiloakles-projects.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-git-master-camiloakles-projects.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=dark&cache_seconds=1800)
