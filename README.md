@@ -21,49 +21,51 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 
 ### 🛠️ Tech Stack
 
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Actions" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Build.svg" alt="Cloud Build" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Bigtable.svg" alt="Bigtable" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/BigQuery.svg" alt="BigQuery" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" alt="Redshift" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" alt="ChromaDB" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" alt="Cloud Run" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-ecs.svg" alt="ECS" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Compute-Engine.svg" alt="Compute Engine" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Batch.svg" alt="Cloud Batch" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://marketplace-assets.digitalocean.com/logos/airbyte.png" alt="Airbyte" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://i.pinimg.com/originals/47/21/58/472158c2429007c4c4a0a7467aec888d.png" alt="dbt" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*65zEofsCQuqIU9VMQi7uQQ.png" alt="Dataform" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Dataflow.svg" alt="Dataflow" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Dataproc.svg" alt="Dataproc" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" alt="AWS Glue" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" alt="AWS Step Functions" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Looker.svg" alt="Looker" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="Power BI" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" alt="Vertex AI" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://avatars.githubusercontent.com/u/110818415?v=4" alt="Pydantic" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Actions" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Cloud-Build.svg" alt="Cloud Build" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Bigtable.svg" alt="Bigtable" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/BigQuery.svg" alt="BigQuery" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" alt="Redshift" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" alt="ChromaDB" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" alt="Cloud Run" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-ecs.svg" alt="ECS" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Compute-Engine.svg" alt="Compute Engine" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Batch.svg" alt="Cloud Batch" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://marketplace-assets.digitalocean.com/logos/airbyte.png" alt="Airbyte" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://i.pinimg.com/originals/47/21/58/472158c2429007c4c4a0a7467aec888d.png" alt="dbt" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://miro.medium.com/v2/resize:fit:300/1*65zEofsCQuqIU9VMQi7uQQ.png" alt="Dataform" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Dataflow.svg" alt="Dataflow" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Dataproc.svg" alt="Dataproc" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" alt="AWS Glue" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" alt="AWS Step Functions" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Looker.svg" alt="Looker" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="Power BI" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" alt="Vertex AI" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://avatars.githubusercontent.com/u/110818415?v=4" alt="Pydantic" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></td>
+  </tr>
+</table>
 
 ### 🤝 Let's Collaborate On
 - Cloud data migrations (on-prem → GCP/AWS)  
@@ -82,8 +84,21 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=false&include_all_commits=true" alt="Estadísticas de GitHub de Camilo Akle" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=dark&cache_seconds=1800" alt="Lenguajes más usados en GitHub" />
+  <a href="https://github.com/camiloakle?tab=followers"><img src="https://img.shields.io/github/followers/camiloakle?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=58a6ff" alt="GitHub followers" /></a>
+  <a href="https://github.com/camiloakle?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcamiloakle&query=%24.public_repos&label=Public%20repos&logo=github&style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="Public repositories" /></a>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=false&include_all_commits=true&rank_icon=github" alt="Camilo Akle GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=dark&cache_seconds=1800&langs_count=8&hide_progress=false" alt="Most used languages on GitHub" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com/?user=camiloakle&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=camiloakle&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20graph" alt="GitHub contribution activity graph" />
 </p>
 
 > *"Great data infrastructure doesn't just move data—it enables insight, action, and innovation."*
