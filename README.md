@@ -21,51 +21,40 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Actions" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Cloud-Build.svg" alt="Cloud Build" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Bigtable.svg" alt="Bigtable" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/BigQuery.svg" alt="BigQuery" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" alt="Redshift" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" alt="ChromaDB" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" alt="Cloud Run" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-ecs.svg" alt="ECS" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Compute-Engine.svg" alt="Compute Engine" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Batch.svg" alt="Cloud Batch" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://marketplace-assets.digitalocean.com/logos/airbyte.png" alt="Airbyte" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://i.pinimg.com/originals/47/21/58/472158c2429007c4c4a0a7467aec888d.png" alt="dbt" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://miro.medium.com/v2/resize:fit:300/1*65zEofsCQuqIU9VMQi7uQQ.png" alt="Dataform" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Dataflow.svg" alt="Dataflow" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Dataproc.svg" alt="Dataproc" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/AWS/svg/Analytics/Glue.svg" alt="AWS Glue" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" alt="AWS Step Functions" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Looker.svg" alt="Looker" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="Power BI" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://icon.icepanel.io/GCP/svg/Vertex-AI.svg" alt="Vertex AI" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://avatars.githubusercontent.com/u/110818415?v=4" alt="Pydantic" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,docker,kubernetes,py,r,postgres,mysql,mongodb,redis,firebase,kafka,fastapi,flask,arduino,git,github,jenkins,elasticsearch,pytorch,tensorflow&perline=8&theme=dark" alt="Languages, clouds, data stores, APIs (Skill Icons)" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Build" title="Cloud Build" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigtable.svg" alt="Bigtable" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="BigQuery" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonredshift.svg" alt="Redshift" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/chroma.svg" alt="ChromaDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/docker.svg" alt="Cloud Run" title="Cloud Run" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonecs.svg" alt="Amazon ECS" width="40" height="40" />
+  <br />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonec2.svg" alt="Compute Engine" title="Compute Engine" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Batch" title="Cloud Batch" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/airbyte.svg" alt="Airbyte" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/dbt.svg" alt="dbt" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="Dataform" title="Dataform" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apacheflink.svg" alt="Dataflow" title="Dataflow" width="40" height="40" />
+  <br />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apachespark.svg" alt="Dataproc" title="Dataproc" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonaws.svg" alt="AWS Glue" title="AWS Glue" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonaws.svg" alt="AWS Step Functions" title="AWS Step Functions" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/looker.svg" alt="Looker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/powerbi.svg" alt="Power BI" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/metabase.svg" alt="Metabase" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/tensorflow.svg" alt="Vertex AI" title="Vertex AI" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pydantic.svg" alt="Pydantic" width="40" height="40" />
+</p>
 
 ### 🤝 Let's Collaborate On
 - Cloud data migrations (on-prem → GCP/AWS)  
