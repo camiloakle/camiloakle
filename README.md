@@ -4,8 +4,10 @@ Building secure, scalable, cloud-native data platforms on **GCP & AWS** for **Fi
 
 With 5+ years of experience, I design end-to-end data architectures using **Infrastructure as Code**, **event-driven pipelines**, and **serverless/containerized workloads**—always with security, observability, and cost efficiency in mind.
 
+I also connect **ML & GenAI** to that stack in production: **embeddings**, **RAG**, **LLM orchestration** (e.g. **LangChain**-style pipelines, **Vertex AI**, **Bedrock**, managed APIs), and the data contracts around them—not just experiments in isolation.
+
 🌱 Currently exploring **IoT + data engineering** for precision agriculture (Arduino, PLCs → cloud).  
-🤝 Open to collaborations on **cloud data modernization**, **vector databases**, **IoT integrations**, or **open-source innovation**.
+🤝 Open to collaborations on **cloud data modernization**, **vector databases**, **RAG / LLM pipelines**, **IoT integrations**, or **open-source innovation**.
 
 ---
 
@@ -15,79 +17,102 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 - ✅ Secure, monitored ETL/ELT pipelines using **Airflow**, **Dataform**, **Glue**, **Dataflow**  
 - ✅ Serverless & containerized workloads (**Cloud Run**, **Lambda**, **ECS**)  
 - ✅ CI/CD automation via **GitHub Actions** & **Cloud Build**  
-- ✅ BI-ready data models for **Looker**, **Power BI**, **Tableau**
+- ✅ BI-ready data models for **Looker**, **Power BI**, **Tableau**  
+- ✅ **RAG & LLM-ready data products**: embeddings, vector retrieval (**ChromaDB**, **Milvus**), orchestration (**LangChain**, **LlamaIndex**), model lifecycle hooks (**MLflow**, **Ray**), cloud AI APIs (**Vertex AI**, **Bedrock**, **OpenAI**, **Anthropic**), and **Hugging Face** / **Ollama** when the architecture calls for open-weight or local inference
+
+---
+
+### ⭐ Featured Projects
+
+- **[netsuite-sdk-py](https://github.com/camiloakle/netsuite-sdk-py)** — Python SDK for NetSuite resources  
+- **[docker-compose-all-mysql](https://github.com/camiloakle/docker-compose-all-mysql)** — MySQL & MariaDB versions in Docker for local testing  
+- **[amortizador_masivo](https://github.com/camiloakle/amortizador_masivo)** — amortización para empresas  
+
+*Browse all public work: [repositories](https://github.com/camiloakle?tab=repositories).*
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table align="left" border="0" cellspacing="4" cellpadding="2">
+<div align="center">
+<table border="0" cellspacing="4" cellpadding="4" width="100%">
   <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Build" title="Cloud Build" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Build" title="Cloud Build" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigtable.svg" alt="Bigtable" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigtable.svg" alt="Bigtable" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="BigQuery" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonredshift.svg" alt="Redshift" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/chroma.svg" alt="ChromaDB" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/docker.svg" alt="Cloud Run" title="Cloud Run" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonecs.svg" alt="ECS" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="BigQuery" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonredshift.svg" alt="Redshift" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/chroma.svg" alt="ChromaDB" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/docker.svg" alt="Cloud Run" title="Cloud Run" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonecs.svg" alt="ECS" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonec2.svg" alt="Compute Engine" title="Compute Engine" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Batch" title="Cloud Batch" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/airbyte.svg" alt="Airbyte" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/dbt.svg" alt="dbt" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="Dataform" title="Dataform" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apacheflink.svg" alt="Dataflow" title="Dataflow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apachespark.svg" alt="Dataproc" title="Dataproc" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSGlue.svg" alt="AWS Glue" title="AWS Glue" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSStepFunctions.svg" alt="AWS Step Functions" title="AWS Step Functions" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonec2.svg" alt="Compute Engine" title="Compute Engine" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Batch" title="Cloud Batch" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/airbyte.svg" alt="Airbyte" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/dbt.svg" alt="dbt" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="Dataform" title="Dataform" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/elasticsearch.svg" alt="Elasticsearch" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pytorch.svg" alt="PyTorch" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/looker.svg" alt="Looker" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/powerbi.svg" alt="Power BI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/metabase.svg" alt="Metabase" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/tableau.svg" alt="Tableau" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecolab.svg" alt="Vertex AI" title="Vertex AI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pydantic.svg" alt="Pydantic" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apacheflink.svg" alt="Dataflow" title="Dataflow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apachespark.svg" alt="Dataproc" title="Dataproc" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonaws.svg" alt="AWS Glue" title="AWS Glue" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonaws.svg" alt="AWS Step Functions" title="AWS Step Functions" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/elasticsearch.svg" alt="Elasticsearch" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pytorch.svg" alt="PyTorch" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/looker.svg" alt="Looker" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/powerbi.svg" alt="Power BI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/metabase.svg" alt="Metabase" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecolab.svg" alt="Vertex AI" title="Vertex AI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pydantic.svg" alt="Pydantic" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/openai.svg" alt="OpenAI" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/anthropic.svg" alt="Anthropic" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/huggingface.svg" alt="Hugging Face" title="Hugging Face" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/langchain.svg" alt="LangChain" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/milvus.svg" alt="Milvus" title="Vector DB" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/ray.svg" alt="Ray" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/mlflow.svg" alt="MLflow" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/ollama.svg" alt="Ollama" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/supabase.svg" alt="Supabase" title="Postgres + pgvector ecosystem" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
+    <td align="center" valign="middle" bgcolor="#f6f8fa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/amazon.svg" alt="Amazon Bedrock" title="Amazon Bedrock" width="40" height="40" style="display:inline-block;margin:2px;border-radius:4px;"/></td>
   </tr>
 </table>
+</div>
 
 ### 🤝 Let's Collaborate On
 - Cloud data migrations (on-prem → GCP/AWS)  
 - Building secure, observable, and automated data platforms  
 - Integrating **IoT or vector data** into cloud analytics pipelines  
+- **RAG**, **embeddings**, or **LLM** services wired to governed, observable data pipelines  
 - Open-source contributions in data engineering or sustainable tech
 
 ---
