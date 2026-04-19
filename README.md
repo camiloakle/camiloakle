@@ -23,7 +23,11 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 
 <p align="left">
   <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,docker,kubernetes,py,r,postgres,mysql,mongodb,redis,firebase,kafka,fastapi,flask,arduino,git,github,jenkins,elasticsearch,pytorch,tensorflow&perline=8&theme=dark" alt="Languages, clouds, data stores, APIs (Skill Icons)" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,docker,kubernetes,py,r,postgres,mysql,mongodb,redis,firebase,kafka,fastapi,flask,arduino,git,github,jenkins,elasticsearch,pytorch,tensorflow,linux&amp;perline=8&amp;theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,docker,kubernetes,py,r,postgres,mysql,mongodb,redis,firebase,kafka,fastapi,flask,arduino,git,github,jenkins,elasticsearch,pytorch,tensorflow,linux&amp;perline=8&amp;theme=light" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,githubactions,docker,kubernetes,py,r,postgres,mysql,mongodb,redis,firebase,kafka,fastapi,flask,arduino,git,github,jenkins,elasticsearch,pytorch,tensorflow,linux&amp;perline=8&amp;theme=dark" alt="Languages, clouds, data stores, APIs (Skill Icons)" />
+    </picture>
   </a>
 </p>
 
@@ -52,7 +56,7 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/looker.svg" alt="Looker" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/powerbi.svg" alt="Power BI" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/metabase.svg" alt="Metabase" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/tensorflow.svg" alt="Vertex AI" title="Vertex AI" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecolab.svg" alt="Vertex AI" title="Vertex AI" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pydantic.svg" alt="Pydantic" width="40" height="40" />
 </p>
 
@@ -73,21 +77,55 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/camiloakle?tab=followers"><img src="https://img.shields.io/github/followers/camiloakle?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=58a6ff" alt="GitHub followers" /></a>
-  <a href="https://github.com/camiloakle?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcamiloakle&query=%24.public_repos&label=Public%20repos&logo=github&style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="Public repositories" /></a>
+  <a href="https://github.com/camiloakle?tab=followers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/camiloakle?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;labelColor=0d1117&amp;color=58a6ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/camiloakle?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;labelColor=f6f8fa&amp;color=0969da" />
+      <img src="https://img.shields.io/github/followers/camiloakle?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;labelColor=0d1117&amp;color=58a6ff" alt="GitHub followers" />
+    </picture>
+  </a>
+  <a href="https://github.com/camiloakle?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcamiloakle&amp;query=%24.public_repos&amp;label=Public%20repos&amp;logo=github&amp;style=for-the-badge&amp;labelColor=0d1117&amp;color=58a6ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcamiloakle&amp;query=%24.public_repos&amp;label=Public%20repos&amp;logo=github&amp;style=for-the-badge&amp;labelColor=f6f8fa&amp;color=0969da" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcamiloakle&amp;query=%24.public_repos&amp;label=Public%20repos&amp;logo=github&amp;style=for-the-badge&amp;labelColor=0d1117&amp;color=58a6ff" alt="Public repositories" />
+    </picture>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=camiloakle&amp;show_icons=true&amp;theme=dark&amp;count_private=false&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;card_width=320" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=camiloakle&amp;show_icons=true&amp;theme=default&amp;count_private=false&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;card_width=320" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=camiloakle&amp;show_icons=true&amp;theme=dark&amp;count_private=false&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;card_width=320" alt="Camilo Akle GitHub stats" />
+      </picture>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&amp;layout=compact&amp;theme=dark&amp;langs_count=8&amp;hide_border=true&amp;card_width=320&amp;cache_seconds=1800" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&amp;layout=compact&amp;theme=default&amp;langs_count=8&amp;hide_border=true&amp;card_width=320&amp;cache_seconds=1800" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&amp;layout=compact&amp;theme=dark&amp;langs_count=8&amp;hide_border=true&amp;card_width=320&amp;cache_seconds=1800" alt="Most used languages on GitHub" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=camiloakle&amp;theme=dark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;card_width=640" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=camiloakle&amp;theme=default&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;card_width=640" />
+    <img width="90%" src="https://streak-stats.demolab.com/?user=camiloakle&amp;theme=dark&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=camiloakle&show_icons=true&theme=dark&count_private=false&include_all_commits=true&rank_icon=github" alt="Camilo Akle GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloakle&layout=compact&theme=dark&cache_seconds=1800&langs_count=8&hide_progress=false" alt="Most used languages on GitHub" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=camiloakle&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=camiloakle&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20graph" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=camiloakle&amp;theme=github-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=camiloakle&amp;theme=github&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=camiloakle&amp;theme=github-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20graph" alt="GitHub contribution activity graph" />
+  </picture>
 </p>
 
 > *"Great data infrastructure doesn't just move data—it enables insight, action, and innovation."*
