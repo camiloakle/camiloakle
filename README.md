@@ -25,7 +25,6 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
   <!-- Cloud Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- IaC & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" alt="Pulumi" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
@@ -34,13 +33,11 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
@@ -49,7 +46,6 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlebigquery.svg" alt="BigQuery" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonredshift.svg" alt="Redshift" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/chroma.svg" alt="ChromaDB" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- Containers & Compute -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
@@ -57,7 +53,6 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonecs.svg" alt="ECS" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonec2.svg" alt="Compute Engine" title="Compute Engine" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecloud.svg" alt="Cloud Batch" title="Cloud Batch" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- Data Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/airbyte.svg" alt="Airbyte" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
@@ -69,28 +64,22 @@ With 5+ years of experience, I design end-to-end data architectures using **Infr
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/apachespark.svg" alt="Dataproc" title="Dataproc" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonaws.svg" alt="AWS Glue" title="AWS Glue" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/amazonaws.svg" alt="AWS Step Functions" title="AWS Step Functions" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- Search & ML -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/elasticsearch.svg" alt="Elasticsearch" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pytorch.svg" alt="PyTorch" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- BI -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/looker.svg" alt="Looker" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons@master/svg/powerbi.svg" alt="Power BI" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/metabase.svg" alt="Metabase" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/googlecolab.svg" alt="Vertex AI" title="Vertex AI" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.6.0/icons/pydantic.svg" alt="Pydantic" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- Platform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
-
   <!-- IoT / Exploring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="margin: 2px; border-radius: 4px;"/>
 </div>
